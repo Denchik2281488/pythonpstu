@@ -1,0 +1,23 @@
+{
+         "Category_base": {
+                  "loh": {
+                           "Limit": 300,
+                           "Spending": 0
+                  },
+                  "ne_loh": {
+                           "Limit": 1000,
+                           "Spending": 0
+                  },
+                  "category228": {
+                           "Limit": 1000,
+                           "Spending": 0
+                  }
+         },
+         "Spend_list": {
+                  "chizypizy": {
+                           "Category": "loh",
+                           "Mark": "s",
+                           "Cost": "200"
+                  }
+         }
+}
